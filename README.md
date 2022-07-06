@@ -19,6 +19,8 @@ The script is being written in batch
 
 - The Public IP and the local IP are being displayed on the cmd
 
+- In order for the public IP to work on your internet you have to enable port forwarding on your router's web page and the desired port!
+
 - Click a file and download it!
 
 - Done!
