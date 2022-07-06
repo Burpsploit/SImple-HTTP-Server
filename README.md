@@ -2,7 +2,7 @@
 
 This is an automation code for Python's SimplrHTTPServer library in order to not having to type the whole commands manually and getting it to work from your public IP too.
 
-The script is being written in batch
+The script is being written in batch, ps1
 
 # Requirements
 
