@@ -15,7 +15,7 @@ The script is being written in batch, ps1, bash
 
 - Open the script and on the command prompt write the port you want to open for the server (Press Enter to get the default "8080").
 
-- Write on another's device Browser ```http://<YOUR-IP>/<PORT>```
+- Write on another's device Browser ```http://<YOUR-IP>:<PORT>```
 
 - The Public IP and the local IP are being displayed on the cmd
 
